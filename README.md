@@ -13,7 +13,7 @@ yarn add @jnlietta/randomid-generator
 ## Usage
 After installation you can easily import the function into your project. Here is a example of usage the package: 
 
-```
+```js
 // import package to your project as a randomID
 const randomID = require('@jnlietta/randomid-generator');
 
