@@ -25,7 +25,7 @@ console.log(newRandomID); // console will show a random string, e.g., 'Dc1ZzS95r
 ## Requirements
 To use method properly you have to put a single argument that is a number:
 
--**idLength** : number that will determine the amount of signs used in the generated id in string type.
+- **idLength** : number that will determine the amount of signs used in the generated id in string type.
 
 ## License
 This project is licensed under MIT License.
